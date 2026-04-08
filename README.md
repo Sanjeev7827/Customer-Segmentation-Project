@@ -13,7 +13,7 @@ The analysis utilizes a customer dataset containing the following key features:
 * **Spending Score:** A metric assigned by the business based on customer behavior and spending habits.
 
 ## 🛠️ Technologies Used
-* **Python 3.12
+* Python 3.12
 * **Pandas:** Data manipulation and analysis.
 * **NumPy:** Numerical computing.
 * **Scikit-Learn:** Machine learning modeling (K-Means algorithm, feature scaling).
